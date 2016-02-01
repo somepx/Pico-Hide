@@ -10,7 +10,7 @@ Install
 -------
 1. Place the 'PicoMenuHiding.php' file in your Pico install 'plugins' folder.
 
-2. Place the following in your `config/config.php` file to activate it
+2. Add the following in your `config/config.php` file to activate it
 ```
 $config[ 'PicoMenuHiding.enabled' ] = TRUE;
 ```
@@ -25,9 +25,9 @@ Hiding: 1
 */
 ```
 
-5. Thats it, have fun    :)
+4. Thats it, have fun    :)
 
 ---
 hope you like this. if something goes wrong, ask me.
 
-Forked from: https://github.com/ollierik/Pico-Placing
+Forked from: https://github.com/somepx/Pico-Hide
