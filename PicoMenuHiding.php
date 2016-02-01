@@ -5,7 +5,7 @@
  * Description
  *
  * @author Uwe Fritz
- * @fork_from https://github.com/ollierik/Pico-Placing
+ * @fork_from https://github.com/somepx/Pico-Hide
  * @link http://www.edor.de
  * @copyright Copyright (c) 2016 edor.de (Uwe Fritz)
  * @license MIT
